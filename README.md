@@ -1,7 +1,8 @@
 # TrollfaceDash
 A silly, frustrating, almost-condescending platformer game made a long time ago in the era of trollfaces and MLG memes.  
-I made this a very long time ago and the code is probably horrible. Artistic choices could also have been better.  
-Please don't think too much of it.
+I made this (as previously stated) a very long time ago and the code is probably horrible. Artistic choices could also have been better.  
+Please don't think too much of it.  
+I will admit that I had a decent amount of fun playing it.
 
 ## Screenshot
 ![Screenshot goes here](screenshot.png)
